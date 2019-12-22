@@ -6,5 +6,10 @@ Author: forhad
 
 1. Load the packages
 2. Get the data from [UCI MACHINE Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+3. Load the data from loacl directory
+4. Reads Human activity label and features separately
+5. Extracts only the measurements on the mean and standard deviation for each measurement.
+6. Load train data and test datasets
+7. From the data set in step 6, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 
