@@ -1,5 +1,6 @@
 ## Getting And Cleaning Data
-Repository for coursera course Getiing and Cleaning Data
+Repository for coursera course Getiing and Cleaning Data.
+
 Author: forhad
 
 ## Scripts(run_analysis.R) Description
