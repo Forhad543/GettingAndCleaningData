@@ -5,7 +5,7 @@ Author: forhad
 ## Scripts(run_analysis.R) Description
 
 1. Load the packages
-2. Get the data from [UCI MACHINE Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+2. Get the data [Human Activity Recognition](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 3. Load the data from loacl directory
 4. Reads Human activity label and features separately
 5. Extracts only the measurements on the mean and standard deviation for each measurement.
